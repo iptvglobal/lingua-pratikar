@@ -1,0 +1,7 @@
+{
+  "name": "LinguoFlow Coach",
+  "description": "A natural, voice-driven language coach for learning Portuguese with confidence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
